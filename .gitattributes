@@ -1,0 +1,14 @@
+# Traktuj wszystkie pliki jako binarne, aby uniknąć problemów z konwersją końca linii
+* -text
+
+# Specyficzne ustawienia dla plików tekstowych, jeśli są potrzebne
+*.md text
+*.txt text
+
+# Specyficzne ustawienia dla plików KiCad
+*.kicad_pcb binary
+*.sch binary
+*.lib binary
+*.mod binary
+*.dcm binary
+*.pretty/** binary

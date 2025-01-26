@@ -1,0 +1,25 @@
+# Pliki tymczasowe KiCad
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+_autosave-*
+*.tmp
+*-cache.lib
+*-rescue.lib
+*-save.pro
+*-save.kicad_pcb
+
+# Pliki wyjściowe
+*.net
+*.dsn
+*.ses
+
+# Backupy
+*.bck
+*.bak
+
+# Blokady
+*.lck
+
+# Blender
+*blend1
