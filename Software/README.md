@@ -1,1 +1,1 @@
-# SimpleHMI Software
+# SimplePLC Software

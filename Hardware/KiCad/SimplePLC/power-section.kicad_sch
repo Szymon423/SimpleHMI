@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ccfb1103-2eef-4a4c-ae88-517a17c05c0b")
+	(paper "A4")
+	(title_block
+		(title "SimplePLC")
+		(date "2025-01-27")
+		(rev "v1.0")
+		(company "Szymon Wąchała")
+	)
+	(lib_symbols)
+)

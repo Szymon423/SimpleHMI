@@ -1,0 +1,285 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4b468ead-584e-46d1-b772-383545ada818")
+	(paper "A4")
+	(title_block
+		(title "SimplePLC")
+		(date "2025-01-27")
+		(rev "v1.0")
+		(company "Szymon Wąchała")
+	)
+	(lib_symbols)
+	(sheet
+		(at 127 76.2)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00f62382-2ce6-4cb0-9fa6-ccc6ae4e1651")
+		(property "Sheetname" "Digital Inputs"
+			(at 127 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "digital-inputs.kicad_sch"
+			(at 127 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SimplePLC"
+				(path "/4b468ead-584e-46d1-b772-383545ada818"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 38.1)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0aec3395-1ce0-4118-9ca1-4f7cf43635e8")
+		(property "Sheetname" "Relay Outputs"
+			(at 127 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "relay-outputs.kicad_sch"
+			(at 127 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SimplePLC"
+				(path "/4b468ead-584e-46d1-b772-383545ada818"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 38.1)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4cbdf860-894c-45e9-9e52-74e70a06c8a6")
+		(property "Sheetname" "NodeBus"
+			(at 165.1 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "nodebus.kicad_sch"
+			(at 165.1 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SimplePLC"
+				(path "/4b468ead-584e-46d1-b772-383545ada818"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 114.3)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "57ff7fb8-8937-47a7-a1cd-7a5cc7b1fbd8")
+		(property "Sheetname" "RS485"
+			(at 127 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rs485.kicad_sch"
+			(at 127 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SimplePLC"
+				(path "/4b468ead-584e-46d1-b772-383545ada818"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 114.3)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5ebf128f-720c-4035-9313-002403bcdce0")
+		(property "Sheetname" "Microcontroller"
+			(at 88.9 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microcontroller.kicad_sch"
+			(at 88.9 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SimplePLC"
+				(path "/4b468ead-584e-46d1-b772-383545ada818"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 76.2)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "776d2b50-a3c0-4566-8c15-dd8167f49c1c")
+		(property "Sheetname" "SOM"
+			(at 88.9 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "som.kicad_sch"
+			(at 88.9 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SimplePLC"
+				(path "/4b468ead-584e-46d1-b772-383545ada818"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 38.1)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "984561cb-83ec-4ac0-980f-31dff7e5def3")
+		(property "Sheetname" "Power Section"
+			(at 88.9 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power-section.kicad_sch"
+			(at 88.9 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SimplePLC"
+				(path "/4b468ead-584e-46d1-b772-383545ada818"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

@@ -1,1 +1,1 @@
-# SimpleHMI Hardware
+# SimplePLC Hardware

@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AP2552AW6-7")(type "KiCad")(uri "${KIPRJMOD}/../Library/AP2552AW6-7/AP2552AW6-7.kicad_sym")(options "")(descr ""))
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/../Library/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "CRJ007-MLG-TH")(type "KiCad")(uri "${KIPRJMOD}/../Library/CRJ007-MLG-TH/CRJ007-MLG-TH.kicad_sym")(options "")(descr ""))
+  (lib (name "THVD1400DR")(type "KiCad")(uri "${KIPRJMOD}/../Library/THVD1400DR/THVD1400DR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS56637RPAR")(type "KiCad")(uri "${KIPRJMOD}/../Library/TPS56637RPAR/TPS56637RPAR.kicad_sym")(options "")(descr ""))
+  (lib (name "2092-1422")(type "KiCad")(uri "${KIPRJMOD}/../Library/WAGO-2092-1422/2092-1422.kicad_sym")(options "")(descr ""))
+)
